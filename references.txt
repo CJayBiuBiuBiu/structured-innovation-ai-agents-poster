@@ -1,0 +1,38 @@
+Sources and Credits
+
+Text and technical content sources:
+
+1. IBM. “What Are AI Agents?”
+   Used for the general definition of AI agents, task autonomy, planning, memory, tool calling, APIs, and workflow automation.
+
+2. OpenClaw Official Documentation. “OpenClaw.”
+   Used for the OpenClaw case description, including self-hosted gateway, tool use, sessions, memory, and multi-agent routing.
+
+3. OpenClaw Official Documentation. “Agent Loop.”
+   Used for the explanation of structured agent execution, including intake, context assembly, model inference, tool execution, streaming replies, and persistence.
+
+4. OpenClaw Official Documentation. “Tools and Plugins.”
+   Used for the explanation that tools allow agents to act beyond text generation, such as reading files, running commands, browsing the web, sending messages, and interacting with devices.
+
+5. OpenClaw Official Documentation. “Memory.”
+   Used for the explanation of memory search, memory retrieval, and persistent agent knowledge.
+
+6. OpenClaw Official Documentation. “Multi-Agent Routing.”
+   Used for the explanation of role-divided or isolated multi-agent systems, including separate workspaces, state directories, and session histories.
+
+7. Wang, L., Ma, C., Feng, X., Zhang, Z., Yang, H., Zhang, J., Chen, Z.-Y., Tang, J., Zhao, W. X., Wei, Z., and Wen, J.-R. “A Survey on Large Language Model based Autonomous Agents.”
+   Used as the academic background source for LLM-based autonomous agents, especially the framework of memory, planning, and action modules.
+
+8. OpenAI Help Center. “What are tokens and how to count them?”
+   Used for the explanation that API usage is measured and priced by tokens.
+
+9. OpenAI API Documentation. “Reasoning models.”
+   Used for the explanation that reasoning models use reasoning tokens for planning, tool use, ambiguity handling, and multi-step tasks.
+
+Image and visual sources:
+
+10. Central lobster illustration:
+    Original artwork created by the group. No external image source was used.
+
+11. Poster layout and final arrangement:
+    Designed and arranged by the group.
